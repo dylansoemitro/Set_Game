@@ -2,7 +2,7 @@ Course: CS 107, Fall 2019, Haverford College
 Created by: Xiaorong Wang, Mujie Wang, Dylan Soemitro
 
 
-## Project Title
+## Project Title ##
 Sets card game
 
 
