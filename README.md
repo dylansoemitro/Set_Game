@@ -2,8 +2,7 @@ Course: CS 107, Fall 2019, Haverford College
 Created by: Xiaorong Wang, Mujie Wang, Dylan Soemitro
 
 
-## Project Title ##
-Sets card game
+## Set Card Game ##
 
 
 ## Getting started ##
@@ -35,4 +34,4 @@ time -- to time the time user uses while playing
 random -- to shuffle the 81 cards each time user play
 
 ### Authors ###
-Xiaorong Wang, Mujie Wang, Dylan Soemitro
+Xiaorng Wang, Mujie Wang, Dylan Soemitro
