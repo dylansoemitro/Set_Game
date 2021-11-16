@@ -1,9 +1,9 @@
+
+
+
+# Set Card Game #
 Course: CS 107, Fall 2019, Haverford College
 Created by: Xiaorong Wang, Mujie Wang, Dylan Soemitro
-
-
-## Set Card Game ##
-
 
 ## Getting started ##
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
