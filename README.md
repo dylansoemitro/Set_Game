@@ -10,7 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites ###
 Install pygame package before running the program
+
 Installation can be achieved by using the following code in terminal
+
 $pip3 install pygame
 
 ### Run ###
