@@ -32,7 +32,9 @@ User can end the program by pressing the "Quit" buttons.
 
 ### Packages used ###
 pygame -- for the user interface and the running of the game
+
 time -- to time the time user uses while playing
+
 random -- to shuffle the 81 cards each time user play
 
 ### Authors ###
